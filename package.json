@@ -1,0 +1,17 @@
+{
+  "name": "deck",
+  "version": "1.0.0",
+  "description": "Koodaustehtävä Comiqia varten",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timo Rissanen",
+  "license": "ISC",
+  "dependencies": {
+    "card-deck": "^1.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "poker-hands": "^1.0.2"
+  }
+}

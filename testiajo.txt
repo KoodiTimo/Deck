@@ -1,0 +1,27 @@
+//console.log tulostus//
+
+Korttipakassa yhteensä 52 korttia.
+=========== START ==============
+Nostit uuden käden: JD 9C QS AS TH
+Ei voittoa.
+Nostit uuden käden: 7H KS 7S QH AC
+Ei voittoa.
+Nostit uuden käden: 3C 5H 7D 5S 6D
+Ei voittoa.
+=========== END ================
+=========== START ==============
+Nostit uuden käden: 7C 9H QC 6S 5C
+Ei voittoa.
+Nostit uuden käden: JC 2S 4C TD 2C
+Ei voittoa.
+Nostit uuden käden: 9D JH JS 4D 6C
+Ei voittoa.
+=========== END ================
+=========== START ==============
+Nostit uuden käden: 2H 5D 6H 3H 8H
+Ei voittoa.
+Nostit uuden käden: KD KH 8D 8S 4S
+Sait kaksi paria: K,8
+Nostit uuden käden: TS KC 3D 8C 4H
+Ei voittoa.
+=========== END ================
